@@ -5,6 +5,7 @@ config.py
 .DS_Store
 API_practice.ipynb
 random_numbers.ipynb
+Google_Nearby_Search.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
